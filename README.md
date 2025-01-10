@@ -166,7 +166,7 @@ Configure the Networking tab for your chosen network type. Again, the easiest so
 
 
 
- 
+<img src="VM-Network.jpg"> 
 
 <h2>Downloading Your operating systems ISO(s)</h2>
 Next we need an operating system (OS) to install on our Virtual Machines. You could do this with a physical disc if you wanted, but most of the time you will want to download an ISO for OS installations.
